@@ -24,14 +24,3 @@ The Java program, `PostfixEvaluation`, provides a non-recursive approach for eva
 4. **User Interaction:**
    - The program prompts the user to input an infix expression.
    - It then displays the corresponding postfix expression and the result after evaluation.
-
-**GitHub Repository:**
-[Java Postfix Expression Evaluation & Infix to Postfix Conversion](https://github.com/ZohaibRahim/CPSC-281/tree/Postfix-Expression-Evaluation-%26-Infix-to-Postfix-Conversion)
-
-**Usage:**
-1. Clone the repository to your local machine.
-2. Compile and run the `PostfixEvaluation.java` file.
-3. Follow the prompt to enter an infix expression for evaluation.
-4. View the generated postfix expression and the result of the evaluation.
-
-Explore the provided Java program to gain insights into postfix expression evaluation and infix-to-postfix conversion. The repository includes the source code, detailed comments, and error-handling mechanisms for reference and understanding.
