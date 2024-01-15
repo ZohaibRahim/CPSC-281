@@ -51,6 +51,6 @@ The provided Java programs aim to remove duplicate elements from an integer arra
 4. **Sentinel Value:** Uses a sentinel value to mark replaced elements.
 
 **GitHub Repository:**
-[Removing Duplicates](https://github.com/ZohaibRahim/Removing-Duplicates)
+[Removing Duplicates](https://github.com/ZohaibRahim/CPSC-281/tree/Removing-Duplicates)
 
 Explore the provided Java programs to understand different approaches for removing duplicate elements from arrays. The implementations showcase flexibility and efficiency, making them suitable for various scenarios. The GitHub repository includes the source code and additional details for a comprehensive reference.
