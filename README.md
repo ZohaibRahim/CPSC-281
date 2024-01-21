@@ -1,9 +1,5 @@
-# CPSC-281
-Data Structures
+# Postfix Expression Evaluation & Infix-to-Postfix Conversion
 
-**Postfix Expression Evaluation & Infix-to-Postfix Conversion**
-
-**Description:**
 The Java program, `PostfixEvaluation`, provides a non-recursive approach for evaluating expressions in postfix notation. Postfix notation is a concise way of writing arithmetic expressions without parentheses, making it suitable for unambiguous representation and straightforward evaluation. The program includes functionalities to convert an infix expression with parentheses to postfix notation and then evaluate the resulting postfix expression.
 
 **Key Features:**
