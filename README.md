@@ -1,9 +1,5 @@
-# CPSC-281
-Data Structures
+# HUFFMAN CODING IMPLEMENTATION
 
-**HUFFMAN CODING IMPLEMENTATION**
-
-**Description:**
 The Java program presented above implements Huffman coding, a data compression algorithm that assigns variable-length codes to characters based on their frequencies. The primary goal is to generate Huffman codes for each letter in the alphabet, optimizing the encoding to use shorter codes for more frequently occurring characters.
 
 **Implementation:**
