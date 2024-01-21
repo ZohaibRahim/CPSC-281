@@ -1,9 +1,5 @@
-# CPSC-281
-Data Structures
+# Josephus Problem Solver Using Circular Linked List in Java
 
-**Josephus Problem Solver Using Circular Linked List in Java**
-
-**Description:**
 The Java program, `JosephusProblem`, elegantly solves the classic Josephus problem using a circularly linked list. The Josephus problem involves a group of people standing in a circle, where every k-th person is executed until only one person remains—the survivor. This solution demonstrates the use of a circular linked list to efficiently determine the position of the survivor for any fixed k.
 
 **Key Features:**
