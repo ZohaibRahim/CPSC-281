@@ -1,7 +1,4 @@
-# CPSC-281
-Data Structures
-
-**Arithmetic Expression Processing in Java: Infix to Binary Tree and Tree Traversal**
+# Arithmetic Expression Processing in Java: Infix to Binary Tree and Tree Traversal
 
 **Description:**
 This Java program takes a fully parenthesized infix arithmetic expression as input and performs two main tasks. Firstly, it converts the infix expression into a binary expression tree, facilitating a hierarchical representation of the expression's structure. The program utilizes custom stacks for characters and TreeNodes to manage the conversion process. Secondly, it includes tree traversal algorithms to output the expression in prefix, infix, and postfix formats, offering a comprehensive exploration of tree traversal techniques.
