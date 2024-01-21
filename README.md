@@ -1,9 +1,5 @@
-# CPSC-281
-Data Structures
+# Removing Duplicates from an Array
 
-**Removing Duplicates from an Array**
-
-**Description:**
 The provided Java programs aim to remove duplicate elements from an integer array. Two different implementations are presented, each with its unique approach to achieving this task. The primary purpose is to enhance understanding and flexibility for removing duplicates.
 
 **Implementation - Q1 Class:**
