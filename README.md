@@ -1,9 +1,5 @@
-# CPSC-281
-Data Structures
+# Merging Singly Linked Lists to Doubly Linked List in Java
 
-**Merging Singly Linked Lists to Doubly Linked List in Java**
-
-**Description:**
 The Java program, `MergeLists`, efficiently merges two ordered singly linked lists of integers into a single ordered doubly linked list, eliminating duplicate elements. The program provides a comprehensive demonstration, including standard test cases and special cases. It incorporates a `DoublyLinkedList` class for handling the doubly linked list and ensures bidirectional traversal.
 
 **Key Features:**
