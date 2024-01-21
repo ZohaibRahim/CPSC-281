@@ -1,7 +1,4 @@
-# CPSC-281
-Data Structures
-
-**Deque Implementations in Java: Doubly Linked List and Fixed-Capacity Array**
+# Deque Implementations in Java: Doubly Linked List and Fixed-Capacity Array
 
 This Java program provides comprehensive implementations of a double-ended queue (deque) using two different underlying data structures: a doubly linked list and a fixed-capacity array. The program consists of two classes,  "DequeArray" and "DequeLinkedList", each offering a distinct approach to managing elements in a deque.
 
